@@ -1,0 +1,29 @@
+body{
+	background-color: #1a1a1a;
+}
+
+h1 {
+	 color: green;
+}
+h6{
+		line-height: 5px;
+}
+p {
+	color : green;
+	line-height: 15px;
+}
+
+.container-fluid{
+	margin: 70px auto;
+}
+
+.container-fluid .card:hover{
+	transform: scale(1.02);
+	transition: 0.2s;
+	box-shadow: 2px 4px 8px red;
+
+}
+	 
+footer{
+	background-color: yellow;
+}
